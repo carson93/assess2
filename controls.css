@@ -1,0 +1,57 @@
+#vertical {
+    display: inline-block;
+}
+
+.input {
+    width:70px;
+}
+
+#ranges {
+    margin-bottom: 10px;
+}
+
+#rangeB {
+    background-color: white;
+    color:black;
+}
+
+#numB {
+    background-color: black;
+    color:white;
+}
+
+#randomB {
+    background-color: hotpink;
+    color:blue;
+}
+
+#addB {
+    background-color: grey;
+    color:red;
+}
+
+#autoB {
+    background-color: green;
+    color:orange;
+}
+
+#stopB {
+    background-color: purple;
+    color:violet;
+}
+
+.newItems {
+    height:auto;
+    position: absolute;
+    left:0;
+    right:0;
+    margin:auto;
+}
+
+.newAva {
+    height:100px;
+    width:100px;
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+}
